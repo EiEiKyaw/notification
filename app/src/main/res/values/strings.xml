@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Notification</string>
+    <string name="lb_show_simple_noti">Show Simple Noti</string>
 </resources>

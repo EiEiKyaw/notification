@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606294873934",
+    "project_id": "notification-a2b58",
+    "storage_bucket": "notification-a2b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606294873934:android:ebc846979d2fa80c9e301f",
+        "android_client_info": {
+          "package_name": "com.android.tutorial.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606294873934-6gpssv04c3paljsp1l8tsbav87sjh4s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_YdntVwi8UWjw8fnV2L5hotKjFg2n4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606294873934-6gpssv04c3paljsp1l8tsbav87sjh4s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
